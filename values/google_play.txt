@@ -26,7 +26,7 @@ Coming Soon:
 ✓ Profile Page
 ✓ Messaging
 
-Gallery for Imgur is on a really aggressive development cycle so there are frequest weekly updates.
+Imgur Sync is on a really aggressive development cycle so there are frequest weekly updates.
 
 Please send any feedback/feature request/bug report to support@brennasoft.com or @robbypond.
 
