@@ -93,42 +93,42 @@
     </plurals>
 
 
-    <string name="comments">Comments</string>
-    <string name="sorted_by">sorted by</string>
-    <string name="comment_count">%d comments</string>
-    <string name="indent">Indent</string>
-    <string name="copy_link_to_clipboard">Copy link to clipboard</string>
-    <string name="view_on_reddit">View on Reddit</string>
-    <string name="report_comment">Report Comment</string>
-    <string name="comment_delete_success">Comment was deleted successfully</string>
-    <string name="add_comment">Add Comment</string>
-    <string name="title_activity_edit_subreddits">Configure Subreddits</string>
-    <string name="remove">Remove</string>
-    <string name="remove_all">Remove All</string>
-    <string name="select_subreddits">Select Subreddits</string>
-    <string name="add_subreddit">Add Subreddit</string>
-    <string name="no_comments">No Comments to display</string>
-    <string name="album_details">Album Details</string>
-    <string name="ups">%d ups</string>
-    <string name="downs">%d downs</string>
-    <string name="add_album">Add Album</string>
+    <string name="comments">Comentarios</string>
+    <string name="sorted_by">ordenados por</string>
+    <string name="comment_count">%d comentarios</string>
+    <string name="indent">Indentar</string>
+    <string name="copy_link_to_clipboard">Copiar el enlace al portapapeles</string>
+    <string name="view_on_reddit">Ver en Reddit</string>
+    <string name="report_comment">Reportar un Comentario</string>
+    <string name="comment_delete_success">Comentario se eliminó exitosamente</string>
+    <string name="add_comment">Agregar Comentario</string>
+    <string name="title_activity_edit_subreddits">Configurar Subreddits</string>
+    <string name="remove">Remover</string>
+    <string name="remove_all">Remover todos</string>
+    <string name="select_subreddits">Elegir Subreddits</string>
+    <string name="add_subreddit">Agregar Subreddit</string>
+    <string name="no_comments">No hay Comentarios para mostar</string>
+    <string name="album_details">Detalles del Álbum</string>
+    <string name="ups">%d positivos</string>
+    <string name="downs">%d negativos</string>
+    <string name="add_album">Agregar Álbum</string>
     <string name="about_body" translatable="false">
 <![CDATA[
         <b>Imgur Sync</b><br>
         Version %s<br><br>
     ]]>
     </string>
-    <string name="about_permissions">Required Permissions</string>
-    <string name="about_attributions">Attributions</string>
-    <string name="about_other_apps">Other Brennasoft Apps</string>
-    <string name="about_rate">Rate Application</string>
-    <string name="about">About</string>
-    <string name="feedback">Feedback</string>
-    <string name="send_feedback_using">Send Feedback using</string>
-    <string name="navigation_drawer_open">Open Drawer</string>
-    <string name="navigation_drawer_close">Close Drawer</string>
-    <string name="edit">Edit</string>
-    <string name="reset_subreddits">Reset to Default Subreddiits</string>
+    <string name="about_permissions">Permisos necesarios</string>
+    <string name="about_attributions">Créditos</string>
+    <string name="about_other_apps">Otras aplicaciones Brennasoft</string>
+    <string name="about_rate">Calificar la Aplicación</string>
+    <string name="about">Sobre</string>
+    <string name="feedback">Comentarios</string>
+    <string name="send_feedback_using">Enviar Comentarios usando</string>
+    <string name="navigation_drawer_open">Abrir Panel</string>
+    <string name="navigation_drawer_close">Cerrar Panel</string>
+    <string name="edit">Editar</string>
+    <string name="reset_subreddits">Restaurar los valores por Defecto de Subreddits</string>
     <string name="gallery_submissions">Gallery Submissions</string>
     <string name="gallery_likes">Gallery Likes</string>
     <string name="gallery_comments">Gallery Comments</string>
