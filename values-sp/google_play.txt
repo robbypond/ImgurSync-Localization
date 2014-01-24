@@ -4,30 +4,30 @@ Imgur aloja el sitio más popular de Internet y con contenido visual más exitos
 
 Algunas características notables de Imgur Sync:
 
-✓ The Imgur client that Imgurians have been craving
-✓ Browse the most viral images and animated gifs on the Internet
-✓ Browse images from Reddit and customize subreddits
-✓ Vote and comment on images
-✓ Supports gallery albums
-✓ Supports Random and Meme Galleries.
-✓ Supports Gallery Searching
-✓ Share images via Twitter, Facebook, Google+ , or any app that supports Sharing
-✓ Supports 7 and 10 " Tablets
-✓ Upload pictures directly from your phone
-✓ Manage your account and pictures
-✓ Submit images directly to the Imgur gallery
-✓ Download images to your device
-✓ Galleries can be sorted based on viral, time, popularity, user, hot
-✓ Has many more features not listed here
+✓ Es el cliente para Imgur que la comunidad esperaba
+✓ Navega las imágenes y gifs animados más vistos de Internet
+✓ Navega imágenes de Reddit y personalizar subreddits
+✓ Vota y comenta imágenes
+✓ Soporta álbumes en la galería
+✓ Soporta Galerías al azar y Galerías de Memes
+✓ Soporta Búsquedas en Galería
+✓ Comparte imágenes vía Twitter, Facebook, Google+, o cualquier otra aplicación que soporte Compartir
+✓ Soporta Tablets de 7'' y 10''
+✓ Sube imágenes directamente desde tu teléfono
+✓ Administra tu cuenta y tus imágenes
+✓ Envía imágenes directamente a la galería de Imgur
+✓ Descarga imágenes en tu dispositivo
+✓ Puedes ordenar las Galerías por popularidad, usuario, fecha y mucho más
+✓ Y montones de otras características más que no mencionamos aquí... descúbrelas!
 
-Coming Soon:
-✓ Account Notifications
-✓ Downloading Albums
-✓ Profile Page
-✓ Messaging
+Próximamente:
+✓ Notificaciones
+✓ Descarga de Álbumes
+✓ Página de perfil
+✓ Mensajería
 
-Imgur Sync is on a really aggressive development cycle so there are frequest weekly updates.
+Imgur Sync está en un ciclo de desarrollo permanente, por lo que encontrarás múltiples actualizaciones semanales.
 
-Please send any feedback/feature request/bug report to support@brennasoft.com or @robbypond.
+Por favor, envía comentarios/requerimientos/informes a support@brennasoft.com o @robbypond.
 
-Disclaimer: The Imgur logo and “IMGUR” are trademarks of Imgur LLC and are used here for informational purposes only. Gallery for Imgur is not affiliated with Imgur and has not been reviewed or approved by Imgur.
+Aviso: El logo de Imgur e "IMGUR" son marcas registradas por Imgur LLC y se usan aquí con propósitos informativos solamente. Gallery for Imgur no depende de Imgur y no ha sido aprobada o sometida a revisión por ésta.
