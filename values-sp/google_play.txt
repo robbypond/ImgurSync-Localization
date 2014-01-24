@@ -1,1 +1,33 @@
-1
+Imgur Sync, formely known as Gallery for Imgur) is the newest and best un official Imgur Gallery and uploader client for Android.
+
+Imgur is home to the web's most popular and hottest image content, curated in real time by a dedicated community through commenting, voting and sharing. Imgur is the go-to destination for viral images. Backed by a funny and friendly community, Imgur is a great to spend your free time online and on the go.
+
+Some notable features of Imgur Sync:
+
+✓ The Imgur client that Imgurians have been craving
+✓ Browse the most viral images and animated gifs on the Internet
+✓ Browse images from Reddit and customize subreddits
+✓ Vote and comment on images
+✓ Supports gallery albums
+✓ Supports Random and Meme Galleries.
+✓ Supports Gallery Searching
+✓ Share images via Twitter, Facebook, Google+ , or any app that supports Sharing
+✓ Supports 7 and 10 " Tablets
+✓ Upload pictures directly from your phone
+✓ Manage your account and pictures
+✓ Submit images directly to the Imgur gallery
+✓ Download images to your device
+✓ Galleries can be sorted based on viral, time, popularity, user, hot
+✓ Has many more features not listed here
+
+Coming Soon:
+✓ Account Notifications
+✓ Downloading Albums
+✓ Profile Page
+✓ Messaging
+
+Imgur Sync is on a really aggressive development cycle so there are frequest weekly updates.
+
+Please send any feedback/feature request/bug report to support@brennasoft.com or @robbypond.
+
+Disclaimer: The Imgur logo and “IMGUR” are trademarks of Imgur LLC and are used here for informational purposes only. Gallery for Imgur is not affiliated with Imgur and has not been reviewed or approved by Imgur.
