@@ -2,7 +2,7 @@ Imgur Sync, formely known as Gallery for Imgur) is the newest and best un offici
 
 Imgur is home to the web's most popular and hottest image content, curated in real time by a dedicated community through commenting, voting and sharing. Imgur is the go-to destination for viral images. Backed by a funny and friendly community, Imgur is a great to spend your free time online and on the go.
 
-Some notable features of Gallery for Imgur:
+Some notable features of Imgur Sync:
 
 ✓ The Imgur client that Imgurians have been craving
 ✓ Browse the most viral images and animated gifs on the Internet
