@@ -1,8 +1,8 @@
-Imgur Sync, formely known as Gallery for Imgur) is the newest and best un official Imgur Gallery and uploader client for Android.
+Imgur Sync, antes conocido como Gallery for Imgur, es la mejor y más conocida aplicación no oficial de Imgur Gallery y gestor de carga, desarrollada para Android.
 
-Imgur is home to the web's most popular and hottest image content, curated in real time by a dedicated community through commenting, voting and sharing. Imgur is the go-to destination for viral images. Backed by a funny and friendly community, Imgur is a great to spend your free time online and on the go.
+Imgur aloja el sitio más popular de Internet y con contenido visual más exitoso, editado y controlado en tiempo real por una comunidad dedicada, a través de comentarios, votos y distribución. Imbur es el lugar al que recurrir para encontrar imágenes virales. Respaldado pur una comunidad amistosa y divertida, Imgur es genial para pasar el rato.
 
-Some notable features of Imgur Sync:
+Algunas características notables de Imgur Sync:
 
 ✓ The Imgur client that Imgurians have been craving
 ✓ Browse the most viral images and animated gifs on the Internet
