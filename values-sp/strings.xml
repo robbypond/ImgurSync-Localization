@@ -60,7 +60,7 @@
     <string name="image_download_finished">Su imagen ha terminado de descargarse. Click para ver.</string>
     <string name="image_download_finished_text">%1$s ha terminado de descargarse.</string>
     <string name="delete">Eliminar</string>
-    <string name="images_deleted">Imagenes eliminadas exitosamente</string>
+    <string name="images_deleted">Imágenes eliminadas exitosamente</string>
     <string name="albums_deleted">Álbumes eliminados exitosamente</string>
     <string name="view_using">Ver con</string>
     <string name="link">Enlaze</string>
