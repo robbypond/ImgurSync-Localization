@@ -1,0 +1,2 @@
+ImgurSync-Localization
+======================
