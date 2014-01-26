@@ -128,7 +128,7 @@
     <string name="navigation_drawer_open">Open Drawer</string>
     <string name="navigation_drawer_close">Close Drawer</string>
     <string name="edit">Edit</string>
-    <string name="reset_subreddits">Reset to Default Subreddiits</string>
+    <string name="reset_subreddits">Reset to Default Subreddits</string>
     <string name="gallery_submissions">Gallery Submissions</string>
     <string name="gallery_likes">Gallery Likes</string>
     <string name="gallery_comments">Gallery Comments</string>
