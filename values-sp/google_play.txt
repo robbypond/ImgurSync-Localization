@@ -1,0 +1,33 @@
+Imgur Sync, antes conocido como Gallery for Imgur, es la mejor y más conocida aplicación no oficial de Imgur Gallery y gestor de carga, desarrollada para Android.
+
+Imgur aloja el sitio más popular de Internet y con contenido visual más exitoso, editado y controlado en tiempo real por una comunidad dedicada, a través de comentarios, votos y distribución. Imbur es el lugar al que recurrir para encontrar imágenes virales. Respaldado pur una comunidad amistosa y divertida, Imgur es genial para pasar el rato.
+
+Algunas características notables de Imgur Sync:
+
+✓ Es el cliente para Imgur que la comunidad esperaba
+✓ Navega las imágenes y gifs animados más vistos de Internet
+✓ Navega imágenes de Reddit y personalizar subreddits
+✓ Vota y comenta imágenes
+✓ Soporta álbumes en la galería
+✓ Soporta Galerías al azar y Galerías de Memes
+✓ Soporta Búsquedas en Galería
+✓ Comparte imágenes vía Twitter, Facebook, Google+, o cualquier otra aplicación que soporte Compartir
+✓ Soporta Tablets de 7'' y 10''
+✓ Sube imágenes directamente desde tu teléfono
+✓ Administra tu cuenta y tus imágenes
+✓ Envía imágenes directamente a la galería de Imgur
+✓ Descarga imágenes en tu dispositivo
+✓ Puedes ordenar las Galerías por popularidad, usuario, fecha y mucho más
+✓ Y montones de otras características más que no mencionamos aquí... descúbrelas!
+
+Próximamente:
+✓ Notificaciones
+✓ Descarga de Álbumes
+✓ Página de perfil
+✓ Mensajería
+
+Imgur Sync está en un ciclo de desarrollo permanente, por lo que encontrarás múltiples actualizaciones semanales.
+
+Por favor, envía comentarios/requerimientos/informes a support@brennasoft.com o @robbypond.
+
+Aviso: El logo de Imgur e "IMGUR" son marcas registradas por Imgur LLC y se usan aquí con propósitos informativos solamente. Gallery for Imgur no depende de Imgur y no ha sido aprobada o sometida a revisión por ésta.

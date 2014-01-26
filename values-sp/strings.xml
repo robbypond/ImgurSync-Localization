@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Imgur Sync</string>
+    <string name="login">Conectar</string>
+    <string name="logout">Desconectar</string>
+    <string name="login_to_imgur">Conectarse en Imgur</string>
+    <string name="hot">Más visto</string>
+    <string name="top">Mejores</string>
+    <string name="user">Usuario</string>
+    <string name="no_images">No hay imágenes para mostrar</string>
+    <string name="gallery">Galería</string>
+    <string name="images">Imágenes</string>
+    <string name="default_gallery">Defecto</string>
+    <string name="albums">Álbumes</string>
+    <string name="favorites">Favoritos</string>
+    <string name="submissions">Enviados</string>
+    <string name="anonymous_uploads">Cargas Anónimas</string>
+    <string name="galleries">Galerías</string>
+    <string name="memes">Memes</string>
+    <string name="subreddits">Subreddits</string>
+    <string name="sort">Ordenar</string>
+    <string name="time">Tiempo</string>
+    <string name="viral">Viral</string>
+    <string name="casual_subreddit">Subreddit Casual</string>
+    <string name="view_casual_subreddit">Ver un subreddit casual</string>
+    <string name="cancel">Cancelar</string>
+    <string name="favorite">Favorito</string>
+    <string name="vote_up">Promover</string>
+    <string name="vote_down">Degradar</string>
+    <string name="upload">Subir</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="add_to_gallery">Agregar a la Galería</string>
+    <string name="anonymous_upload">Carga Anónima</string>
+    <string name="image">Imagen</string>
+    <string name="take_photo">Sacar Foto</string>
+    <string name="camera">Usar Cámara</string>
+    <string name="use_last_photo_taken">Última foto</string>
+    <string name="changelog">Registro de cambios</string>
+    <string name="view_profile">Ver el Perfil de Usuario</string>
+    <string name="image_details">Detalles de la Imágen</string>
+    <string name="download">Descargar</string>
+    <string name="share">Compartir</string>
+    <string name="details_title">Detalles</string>
+    <string name="close">Cerrar</string>
+    <string name="date">Fecha: %1$s</string>
+    <string name="type">Tipo: %1$s</string>
+    <string name="width">Ancho: %1$d</string>
+    <string name="height">Alto: %1$d</string>
+    <string name="size">Tamaño: %1$s</string>
+    <string name="views">Vistas: %1$d</string>
+    <string name="bandwidth">Ancho de banda: %1$s</string>
+    <string name="section">Sección: %1$s</string>
+    <string name="image_is_downloading">La Imagen se está descargando</string>
+    <string name="image_is_downloading_text">Revisar aquí nuevamente cuando se complete.</string>
+    <string name="image_is_uploading">La Imagen se está subiendo</string>
+    <string name="image_is_uploading_text">Revisar aquí nuevamente cuando se complete.</string>
+    <string name="image_upload_finished">Su imagen ha terminado de subirse. Click para ver.</string>
+    <string name="image_download_finished">Su imagen ha terminado de descargarse. Click para ver.</string>
+    <string name="image_download_finished_text">%1$s ha terminado de descargarse.</string>
+    <string name="delete">Eliminar</string>
+    <string name="images_deleted">Imágenes eliminadas exitosamente</string>
+    <string name="albums_deleted">Álbumes eliminados exitosamente</string>
+    <string name="view_using">Ver con</string>
+    <string name="link">Enlaze</string>
+    <string name="random">Al azar</string>
+    <string name="search">Búsqueda</string>
+    <string name="local">Local</string>
+    <string name="downloads">Descargas</string>
+    <string name="upload_complete">Ha terminado de subir su archivo</string>
+    <string name="image_submitted">La imagen fue enviada a la galería</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_network">No se pueden cargar los datos. Revise la conexión a internet.</string>
+    <string name="clear_cache">Borrar el Cache</string>
+    <string name="pref_key_clear_cache">pref_key_clear_cache</string>
+    <string name="cache_size">Actualmente %1$.2f MB</string>
+    <string name="report">Denunciar una Imagen/Álbum</string>
+    <string name="view_comments">Ver Comentarios</string>
+    <string name="vote_success">El voto fué exitoso</string>
+    <string name="share_using">Compartir usando</string>
+    <string name="reply">Responder</string>
+
+    <plurals name="number_of_items_selected">
+        <item quantity="zero">%d elegidos</item>
+        <item quantity="one">%d elegido</item>
+        <item quantity="other">%d elegidos</item>
+    </plurals>
+    <plurals name="images_count">
+        <item quantity="zero">%d elegidas</item>
+        <item quantity="one">%d imagen</item>
+        <item quantity="other">%d imágenes</item>
+    </plurals>
+
+
+    <string name="comments">Comentarios</string>
+    <string name="sorted_by">ordenados por</string>
+    <string name="comment_count">%d comentarios</string>
+    <string name="indent">Indentar</string>
+    <string name="copy_link_to_clipboard">Copiar el enlace al portapapeles</string>
+    <string name="view_on_reddit">Ver en Reddit</string>
+    <string name="report_comment">Reportar un Comentario</string>
+    <string name="comment_delete_success">Comentario se eliminó exitosamente</string>
+    <string name="add_comment">Agregar Comentario</string>
+    <string name="title_activity_edit_subreddits">Configurar Subreddits</string>
+    <string name="remove">Remover</string>
+    <string name="remove_all">Remover todos</string>
+    <string name="select_subreddits">Elegir Subreddits</string>
+    <string name="add_subreddit">Agregar Subreddit</string>
+    <string name="no_comments">No hay Comentarios para mostar</string>
+    <string name="album_details">Detalles del Álbum</string>
+    <string name="ups">%d positivos</string>
+    <string name="downs">%d negativos</string>
+    <string name="add_album">Agregar Álbum</string>
+    <string name="about_body" translatable="false">
+<![CDATA[
+        <b>Imgur Sync</b><br>
+        Version %s<br><br>
+    ]]>
+    </string>
+    <string name="about_permissions">Permisos necesarios</string>
+    <string name="about_attributions">Créditos</string>
+    <string name="about_other_apps">Otras aplicaciones Brennasoft</string>
+    <string name="about_rate">Calificar la Aplicación</string>
+    <string name="about">Sobre</string>
+    <string name="feedback">Comentarios</string>
+    <string name="send_feedback_using">Enviar Comentarios usando</string>
+    <string name="navigation_drawer_open">Abrir Panel</string>
+    <string name="navigation_drawer_close">Cerrar Panel</string>
+    <string name="edit">Editar</string>
+    <string name="reset_subreddits">Restaurar los valores por Defecto de Subreddits</string>
+    <string name="gallery_submissions">Enviados a la Galería</string>
+    <string name="gallery_likes">Votados en la Galería</string>
+    <string name="gallery_comments">Comentarios en la Galería</string>
+    <string name="details">Detalles</string>
+    <string name="title_activity_gallery_profile">Perfil de la Galería</string>
+    <string name="trophies">Repisa de Trofeos</string>
+    <string name="no_trophies">Este usuario no tiene trofeos</string>
+    <string name="upvote">Promover</string>
+    <string name="downvote">Degradar</string>
+    <string name="share_comment">Compartir comentario</string>
+    <string name="open_in_browser">Abrir en el navegador</string>
+    <string name="copy_text">Copiar texto</string>
+    <string name="copy_url">Copiar URL</string>
+    <string name="edit_comment">Editar comentario</string>
+    <string name="delete_comment">Eliminar comentario</string>
+    <string name="must_be_logged_in">Tiene que iniciar sesión para hacer eso</string>
+    <string name="comment_copied_to_clipboard">El comentario %1$s se copió al portapapeles</string>
+    <string name="trophy">Trofeo</string>
+
+</resources>
